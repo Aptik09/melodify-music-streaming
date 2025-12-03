@@ -9,7 +9,9 @@ A modern, feature-rich music streaming platform inspired by Spotify, built with 
 
 ## 🌟 Live Demo
 
-**[View Live Demo](https://melodify-music-streaming.vercel.app)** *(Link will be updated after deployment)*
+| Description | Link |
+|------------|------|
+| 🚀 View Live Demo | [https://melodify-music-streaming.vercel.app](https://melodify-music-streaming.vercel.app) |
 
 ## ✨ Features
 
