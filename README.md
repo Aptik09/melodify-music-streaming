@@ -7,6 +7,8 @@
 
 A modern, feature-rich music streaming platform inspired by Spotify, built with React and Vite. Melodify offers a seamless music listening experience with an intuitive interface, powerful search capabilities, and responsive design.
 
+Aptik Pandey(102317166) 3Q21 Group Project of Software Engineering.
+
 ## 🌟 Live Demo
 
 | Description | Link |
